@@ -1,0 +1,35 @@
+{
+  "name": "tfk-saksbehandling-elev-skoleskyss",
+  "version": "1.0.0",
+  "description": "Saksbehandling av søknader om skoleskyss",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/tfk-saksbehandling-elev-skoleskyss/issues"
+  },
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-elev-skoleskyss",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.4.5"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/*.js",
+    "coverage": "tap test/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "start": "node index.js",
+    "setup": "npm install && node setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/telemark/tfk-saksbehandling-elev-skoleskyss.git"
+  },
+  "devDependencies": {
+    "coveralls": "2.11.9",
+    "standard": "7.1.2",
+    "tap": "5.7.2"
+  }
+}

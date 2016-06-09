@@ -11,15 +11,12 @@ Oversikt over regelsettet som benyttes av saksbehandlermodulen.
 - Alle med folkeregistrert adresse som krever båt/ferge
   - Bosted: folkeregistrert eller delt
   - Årsak: avstand, båt/ferge eller annet
-- Alle med hybeladresse som krever båt/ferge
-  - Bosted: hybel
-  - Årsak: avstand, båt/ferge eller annet
 
 ### Avslag
 - Alle med folkeregistrert adresse under 5800 meter
   - Bosted: folkeregistrert
   - Årsak: Avstand
-- Alle med folkeregistrert og delt adresse under 5800 meter
+- Alle med folkeregistrert _og_ delt adresse hvor begge er under 5800 meter
   - Bosted: delt
   - Årsak: avstand
 - Alle med hybeladresse under 5800 meter
