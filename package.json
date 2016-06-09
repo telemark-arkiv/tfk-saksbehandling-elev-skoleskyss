@@ -31,5 +31,14 @@
     "coveralls": "2.11.9",
     "standard": "7.1.2",
     "tap": "5.7.2"
+  },
+  "dependencies": {
+    "capitalize": "1.0.0",
+    "get-age": "1.0.0",
+    "get-skole-aar": "1.0.0",
+    "jsonwebtoken": "7.0.0",
+    "mississippi": "1.2.0",
+    "tfk-saksbehandling-elev-skoleskyss-templates": "1.0.0",
+    "wreck": "8.0.0"
   }
 }
