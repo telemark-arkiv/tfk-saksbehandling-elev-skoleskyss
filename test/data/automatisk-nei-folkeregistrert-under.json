@@ -2,7 +2,7 @@
   "_id": "575913e7598453685f198dcd",
   "bosted": {
     "stepName": "bosted",
-    "bosted": "delt"
+    "bosted": "folkeregistrert"
   },
   "grunnlag": {
     "stepName": "grunnlag",
@@ -10,14 +10,8 @@
   },
   "distance-see-dsf": {
     "data": {
-      "distance": "10,71 km",
-      "distanceValue": 10708
-    }
-  },
-  "distance-see-delt": {
-    "data": {
-      "distance": "10,71 km",
-      "distanceValue": 10708
+      "distance": "5,71 km",
+      "distanceValue": 5708
     }
   },
   "timeStamp": 1465455591446
