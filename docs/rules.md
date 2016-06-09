@@ -29,7 +29,7 @@ Oversikt over regelsettet som benyttes av saksbehandlermodulen.
 ## Manuell
 - Alle som ikke kan gis automatisk svar
 
-# Adresser for båt/ferge
+# Adresser for automatisk innvilget båt/ferge
 
 ## Hele postnummer
 - 3780 Skåtøy
@@ -37,3 +37,35 @@ Oversikt over regelsettet som benyttes av saksbehandlermodulen.
 - 3783 Kragerø skjærgård
 
 ## Gateadresser
+- 3950 Brevik
+  - Skolelia
+  - Postvegen
+  - Sandøyvegen
+  - Søndre Maiens veg
+  - Nordre Maiens veg
+  - Dåpan
+  - Sandvegen
+  - Sundet
+  - Brønnane
+  - Sofiebakken
+  - Rotstien
+- 3770 Kragerø
+  - Tåtøyveien
+  - Søndre Tåtøy
+  - Steinsundveien
+  - Kirkholmen
+  - Lille Kirkholmen
+  - Furuholmen
+  - Nessundholmane
+  - Muffetangveien
+  - Leirdalsveien
+  - Søndre Bærøyveien
+  - Bærøytangen
+  - Østre Bærøy
+  - Bærøykjerringa
+  - Bærøyknausene
+  - Bratten
+  - Mellomkollen
+  - Skarholmane
+  - Sauøya
+  - Saltskjærholmen
