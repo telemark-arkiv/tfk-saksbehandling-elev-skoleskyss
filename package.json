@@ -17,8 +17,8 @@
     "node": ">=4.4.5"
   },
   "scripts": {
-    "test": "standard && tap --reporter=spec test/*.js",
-    "coverage": "tap test/*.js --coverage",
+    "test": "standard && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
     "start": "node index.js",
     "setup": "npm install && node setup.js"

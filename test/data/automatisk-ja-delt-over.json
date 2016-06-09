@@ -1,0 +1,18 @@
+{
+  "_id": "575913e7598453685f198dcd",
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "delt"
+  },
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Avstand"
+  },
+  "distance-see-dsf": {
+    "data": {
+      "distance": "10,71 km",
+      "distanceValue": 10708
+    }
+  },
+  "timeStamp": 1465455591446
+}
