@@ -28,3 +28,12 @@ Oversikt over regelsettet som benyttes av saksbehandlermodulen.
 
 ## Manuell
 - Alle som ikke kan gis automatisk svar
+
+# Adresser for båt/ferge
+
+## Hele postnummer
+- 3780 Skåtøy
+- 3781 Jomfruland
+- 3783 Kragerø skjærgård
+
+## Gateadresser
