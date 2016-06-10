@@ -1,8 +1,8 @@
 'use strict'
 
-var saksbehandler = require('./index')
+const saksbehandler = require('./index')
 
-saksbehandler({}, function (error, message) {
+saksbehandler({}, function doSaksbehandling (error, message) {
   if (error) {
     console.error(error)
   } else {
