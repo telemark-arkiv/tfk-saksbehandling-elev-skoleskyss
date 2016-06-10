@@ -1,0 +1,56 @@
+{
+  "name": "tfk-saksbehandling-elev-skoleskyss",
+  "version": "1.0.0",
+  "description": "Saksbehandlingsmodul for skoleskyss",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.3.1"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/*.js",
+    "coverage": "tap test/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install && node setup.js"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "Skoleskyss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/tfk-saksbehandling-elev-skoleskyss.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/tfk-saksbehandling-elev-skoleskyss/issues"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.8",
+    "standard": "^6.0.8",
+    "tap": "^5.7.0"
+  },
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "get-skole-aar": "^1.0.0",
+    "jsonwebtoken": "^5.7.0",
+    "mississippi": "^1.2.0",
+    "tfk-saksbehandling-schools-info": "^1.1.0",
+    "tfk-template-to-pdf": "^1.1.0",
+    "uuid": "^2.0.1",
+    "wreck": "^7.0.2"
+  }
+}
