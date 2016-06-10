@@ -5,7 +5,7 @@ function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   var setupItem = require('./lib/setup-item')
   var starter = fromString(JSON.stringify(item))
 
-  function fromString(string) {
+  function fromString (string) {
     return miss.from(function (size, next) {
       // if there's no more content
       // left in the string, close the stream.
