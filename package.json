@@ -44,7 +44,7 @@
     "get-skole-aar": "1.0.0",
     "jsonwebtoken": "7.0.0",
     "mississippi": "1.2.0",
-    "tfk-saksbehandling-elev-skoleskyss-templates": "1.0.4",
+    "tfk-saksbehandling-elev-skoleskyss-templates": "1.0.5",
     "wreck": "8.0.0"
   }
 }
