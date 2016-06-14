@@ -11,7 +11,9 @@
   "dsfData": {
     "ADR":"HELT TILFELDIG ADRESSE",
     "POSTN": "3781",
-    "POSTS": "MED RIKTIG POSTNUMMER"
+    "POSTS": "MED RIKTIG POSTNUMMER",
+    "FODT": "181100",
+    "PERS": "12345"
   },
   "distance-see-dsf": {
     "data": {

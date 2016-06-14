@@ -23,7 +23,9 @@
   "dsfData": {
     "ADR":"HELT TILFELDIG ADRESSE",
     "POSTN": "3681",
-    "POSTS": "MED FEIL POSTNUMMER"
+    "POSTS": "MED FEIL POSTNUMMER",
+    "FODT": "181100",
+    "PERS": "12345"
   },
   "timeStamp": 1465455591446
 }
