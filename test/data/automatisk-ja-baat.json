@@ -8,16 +8,16 @@
     "stepName": "grunnlag",
     "grunnlag": "Avstand"
   },
-  "distance-see-dsf": {
-    "data": {
-      "distance": "5,71 km",
-      "distanceValue": 5708
-    }
-  },
   "dsfData": {
     "ADR":"HELT TILFELDIG ADRESSE",
-    "POSTN": "3681",
-    "POSTS": "MED FEIL POSTNUMMER"
+    "POSTN": "3781",
+    "POSTS": "MED RIKTIG POSTNUMMER"
+  },
+  "distance-see-dsf": {
+    "data": {
+      "distance": "4 km",
+      "distanceValue": 4000
+    }
   },
   "timeStamp": 1465455591446
 }

@@ -8,6 +8,11 @@
     "stepName": "grunnlag",
     "grunnlag": "Avstand"
   },
+  "dsfData": {
+    "ADR":"HELT TILFELDIG ADRESSE",
+    "POSTN": "3681",
+    "POSTS": "MED FEIL POSTNUMMER"
+  },
   "distance-see-dsf": {
     "data": {
       "distance": "10,71 km",

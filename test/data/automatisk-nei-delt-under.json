@@ -20,5 +20,10 @@
       "distanceValue": 5708
     }
   },
+  "dsfData": {
+    "ADR":"HELT TILFELDIG ADRESSE",
+    "POSTN": "3681",
+    "POSTS": "MED FEIL POSTNUMMER"
+  },
   "timeStamp": 1465455591446
 }
