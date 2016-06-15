@@ -8,6 +8,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const setupTemplates = require('./lib/setup-templates')
   const generateDocuments = require('./lib/generate-documents')
   const setupArchive = require('./lib/setup-archive')
+  const cleanupJob = require('./lib/cleanup-job')
   const starter = fromString(JSON.stringify(item))
 
   function fromString (string) {
@@ -42,6 +43,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     setupTemplates,
     generateDocuments,
     setupArchive,
+    cleanupJob,
     finished
   )
 }
