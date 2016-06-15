@@ -46,6 +46,7 @@
     "jsonwebtoken": "7.0.1",
     "mississippi": "1.2.0",
     "tfk-saksbehandling-elev-skoleskyss-templates": "1.0.5",
+    "tfk-template-to-pdf": "1.1.0",
     "uuid": "2.0.2",
     "wreck": "8.0.0"
   }
