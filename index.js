@@ -2,6 +2,7 @@
 
 module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const miss = require('mississippi')
+  const getNextJob = require('./lib/get-next-job')
   const setupItem = require('./lib/setup-item')
   const doSaksbehandling = require('./lib/do-saksbehandling')
   const generateDocuments = require('./lib/generate-documents')
@@ -33,6 +34,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
 
   miss.pipe(
     starter,
+    getNextJob,
     setupItem,
     doSaksbehandling,
     generateDocuments,
