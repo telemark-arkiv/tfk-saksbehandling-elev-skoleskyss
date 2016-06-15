@@ -1,9 +1,10 @@
 'use strict'
 
-function tfkSaksbehandlingElevSkoleskyss (item, callback) {
-  var miss = require('mississippi')
-  var setupItem = require('./lib/setup-item')
-  var starter = fromString(JSON.stringify(item))
+module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
+  const miss = require('mississippi')
+  const setupItem = require('./lib/setup-item')
+  const doSaksbehandling = require('./lib/do-saksbehandling')
+  const starter = fromString(JSON.stringify(item))
 
   function fromString (string) {
     return miss.from(function (size, next) {
@@ -32,8 +33,7 @@ function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   miss.pipe(
     starter,
     setupItem,
+    doSaksbehandling,
     finished
   )
 }
-
-module.exports = tfkSaksbehandlingElevSkoleskyss
