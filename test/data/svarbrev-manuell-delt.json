@@ -1,0 +1,15 @@
+{
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "delt"
+  },
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Avstand"
+  },
+  "saksbehandlingsResultat": {
+    "avslag": false,
+    "innvilget": false,
+    "manuell": true
+  }
+}

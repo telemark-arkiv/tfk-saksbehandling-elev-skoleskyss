@@ -1,0 +1,15 @@
+{
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "folkeregistrert"
+  },
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Avstand"
+  },
+  "saksbehandlingsResultat": {
+    "avslag": true,
+    "innvilget": false,
+    "manuell": false
+  }
+}

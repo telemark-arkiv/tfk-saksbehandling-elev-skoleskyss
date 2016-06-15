@@ -1,0 +1,15 @@
+{
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "folkeregistrert"
+  },
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Annet"
+  },
+  "saksbehandlingsResultat": {
+    "avslag": false,
+    "innvilget": false,
+    "manuell": true
+  }
+}
