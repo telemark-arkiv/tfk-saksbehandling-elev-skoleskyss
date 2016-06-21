@@ -6,8 +6,13 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const setupItem = require('./lib/setup-item')
   const doSaksbehandling = require('./lib/do-saksbehandling')
   const setupTemplates = require('./lib/setup-templates')
-  const generateDocuments = require('./lib/generate-documents')
   const setupArchive = require('./lib/setup-archive')
+  const generateDocuments = require('./lib/generate-documents')
+  const sendStatusMessage = require('./lib/send-status-message')
+  const saveJobDistribution = require('./lib/save-job-distribution')
+  const saveJobDone = require('./lib/save-job-done')
+  const saveJobError = require('./lib/save-job-error')
+  const cleanupDocuments = require('./lib/cleanup-documents')
   const cleanupJob = require('./lib/cleanup-job')
   const starter = fromString(JSON.stringify(item))
 
@@ -41,8 +46,13 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     setupItem,
     doSaksbehandling,
     setupTemplates,
-    generateDocuments,
     setupArchive,
+    generateDocuments,
+    sendStatusMessage,
+    saveJobDistribution,
+    saveJobDone,
+    saveJobError,
+    cleanupDocuments,
     cleanupJob,
     finished
   )
