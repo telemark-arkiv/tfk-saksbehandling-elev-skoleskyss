@@ -23,6 +23,13 @@ Setter opp forsendelse til SvarUt
 Sender dokumenter via SvarUt
 
 ## Generer data for arkiv
+Mulige titler
+- Innvilget – bussøknad skoleskyss – skoleår – skole – elevens navn
+- Avslag – bussøknad skoleskyss – skoleår – skole – elevens navn
+- Hybel – bussøknad skoleskyss – skoleår – skole – elevens navn
+- Delt bosted – bussøknad skoleskyss – skoleår – skole – elevens navn
+- Dokumentasjon – bussøknad skoleskyss – skoleår – skole – elevens navn
+- Foreløpig svar – bussøknad skoleskyss – skoleår – skole – elevens navn
 
 ## Sett opp arkiv
 Setter opp jobb for arkivering
