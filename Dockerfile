@@ -26,7 +26,7 @@ RUN npm install --production
 
 # Env variables
 ENV TFK_SES_JWT_KEY Louie Louie, oh no, I got to go. Louie Louie, oh no, I got to go
-ENV TFK_SES_CALLBACK_STATUS_MESSAGE Svarbrev produsert
+ENV TFK_SES_CALLBACK_STATUS_MESSAGE Søknad behandlet
 ENV TFK_SES_JOB_DIRECTORY_PATH test/data/jobs
 ENV TFK_SES_DISTRIBUTION_DIRECTORY_PATH test/data/distribution
 ENV TFK_SES_ARCHIVE_DIRECTORY_PATH test/data/archive
