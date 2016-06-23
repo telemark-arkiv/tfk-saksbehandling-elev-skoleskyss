@@ -39,12 +39,12 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
       callback(null, {message: 'Success'})
     }
   }
-
   miss.pipe(
     starter,
     getNextJob,
     setupItem,
     doSaksbehandling,
+    sendStatusMessage,
     setupTemplates,
     setupArchive,
     generateDocuments,
