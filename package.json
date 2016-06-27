@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-elev-skoleskyss",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Saksbehandling av søknader om skoleskyss",
   "license": "MIT",
   "author": {
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/telemark/tfk-saksbehandling-elev-skoleskyss",
   "main": "index.js",
   "engines": {
-    "node": ">=4.4.5"
+    "node": ">=4.4.6"
   },
   "scripts": {
     "test": "standard && tap --reporter=spec test/**/*.js",
