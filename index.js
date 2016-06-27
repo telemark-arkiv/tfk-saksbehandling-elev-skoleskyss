@@ -48,7 +48,6 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     setupTemplates,
     setupArchive,
     generateDocuments,
-    sendStatusMessage,
     saveJobDistribution,
     saveJobDone,
     saveJobError,
