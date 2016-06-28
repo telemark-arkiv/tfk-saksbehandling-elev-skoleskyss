@@ -32,6 +32,7 @@ ENV TFK_SES_DISTRIBUTION_DIRECTORY_PATH test/data/distribution
 ENV TFK_SES_ARCHIVE_DIRECTORY_PATH test/data/archive
 ENV TFK_SES_DONE_DIRECTORY_PATH test/data/done
 ENV TFK_SES_ERROR_DIRECTORY_PATH test/data/errors
+ENV TFK_SES_PDF_SERVICE_URL https://pdftemplater.service.t-fk.no/
 
 # Startup
 ENTRYPOINT node example.js

@@ -8,6 +8,5 @@ module.exports = {
   ARCHIVE_DIRECTORY_PATH: process.env.TFK_SES_ARCHIVE_DIRECTORY_PATH || 'test/data/archive',
   DONE_DIRECTORY_PATH: process.env.TFK_SES_DONE_DIRECTORY_PATH || 'test/data/done',
   ERROR_DIRECTORY_PATH: process.env.TFK_SES_ERROR_DIRECTORY_PATH || 'test/data/errors',
-  TEMPLATER_SERVICE_URL: process.env.TFK_SES_TEMPLATER_SERVICE_URL || 'https://templater.service.t-fk.no',
-  PDF_SERVICE_URL: process.env.TFK_SES_PDF_SERVICE_URL || 'https://pdfconvert.service.t-fk.no'
+  PDF_SERVICE_URL: process.env.TFK_SES_PDF_SERVICE_URL || 'https://pdftemplater.service.t-fk.no/'
 }
