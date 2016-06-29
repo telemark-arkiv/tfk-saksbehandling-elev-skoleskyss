@@ -21,5 +21,10 @@
       "distanceValue": 10000
     }
   },
+  "saksbehandlingsResultat": {
+    "innvilget": false,
+    "avslag": false,
+    "manuell": true
+  },
   "timeStamp": 1465455591446
 }
