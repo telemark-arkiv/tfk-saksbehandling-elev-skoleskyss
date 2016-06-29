@@ -11,6 +11,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const sendStatusMessage = require('./lib/send-status-message')
   const saveJobDistribution = require('./lib/save-job-distribution')
   const saveJobDone = require('./lib/save-job-done')
+  const saveJobFara = require('./lib/save-job-fara')
   const saveJobError = require('./lib/save-job-error')
   const cleanupDocuments = require('./lib/cleanup-documents')
   const cleanupJob = require('./lib/cleanup-job')
@@ -50,6 +51,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     generateDocuments,
     saveJobDistribution,
     saveJobDone,
+    saveJobFara,
     saveJobError,
     cleanupDocuments,
     cleanupJob,
