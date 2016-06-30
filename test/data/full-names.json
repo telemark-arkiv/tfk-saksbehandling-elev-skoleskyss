@@ -1,0 +1,28 @@
+[
+  {
+    "dsf": {
+      "NAVN-F": "GANDALF",
+      "NAVN-M": "LEOPOLD",
+      "NAVN-S": "GRÅ",
+      "NAVN": "GRÅ GANDALF LEOPOLD"
+    },
+    "normal": "Gandalf Leopold Grå"
+  },
+  {
+    "dsf": {
+      "NAVN-F": "GANDALF",
+      "NAVN-S": "GRÅ",
+      "NAVN": "GRÅ GANDALF"
+    },
+    "normal": "Gandalf Grå"
+  },
+  {
+    "dsf": {
+      "NAVN-F": "GUNDER",
+      "NAVN-M": "",
+      "NAVN-S": "FISKESLUK",
+      "NAVN": "FISKESLUK GUNDER"
+    },
+    "normal": "Gunder Fiskesluk"
+  }
+]
