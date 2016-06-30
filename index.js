@@ -5,6 +5,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const getNextJob = require('./lib/get-next-job')
   const setupItem = require('./lib/setup-item')
   const doSaksbehandling = require('./lib/do-saksbehandling')
+  const fixLongUrls = require('./lib/fix-long-urls')
   const setupTemplates = require('./lib/setup-templates')
   const setupArchive = require('./lib/setup-archive')
   const generateDocuments = require('./lib/generate-documents')
@@ -45,6 +46,7 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     getNextJob,
     setupItem,
     doSaksbehandling,
+    fixLongUrls,
     sendStatusMessage,
     setupTemplates,
     setupArchive,

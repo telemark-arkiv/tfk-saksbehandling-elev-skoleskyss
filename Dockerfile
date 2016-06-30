@@ -34,6 +34,7 @@ ENV TFK_SES_DONE_DIRECTORY_PATH test/data/done
 ENV TFK_SES_ERROR_DIRECTORY_PATH test/data/errors
 ENV TFK_SES_FARA_DIRECTORY_PATH test/data/fara
 ENV TFK_SES_PDF_SERVICE_URL https://pdftemplater.service.t-fk.no/
+ENV TFK_SES_GOOGLE_API_KEY your-google-api-key
 
 # Startup
 ENTRYPOINT node example.js
