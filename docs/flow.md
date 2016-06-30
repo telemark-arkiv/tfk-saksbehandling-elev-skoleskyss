@@ -10,19 +10,18 @@ Legger inn nødvendige punkter for videre saksgang.
 ## Gjør saksbehandling
 Gjør saksbehandling ut fra oppsatte [regler](rules.md)
 
+## Fiks lange urler
+Endrer de lange kartlenkene til korte
+
+## Send statusmelding
+Sender statusmelding til logg om søknad behandlet + resultat
+
 ## Sett opp maler
-Henter maler og genererer innhold for svarbrev
+Setter opp malene som skal brukes til svarbrev
 
-## Generer dokumenter
-Genererer svarbrev
+## Sett opp data for arkiv
+Setter opp jobb for arkivering
 
-## Sett opp distribusjon
-Setter opp forsendelse til SvarUt
-
-## Send via SvarUt
-Sender dokumenter via SvarUt
-
-## Generer data for arkiv
 Mulige titler
 - Innvilget – bussøknad skoleskyss – skoleår – skole – elevens navn
 - Avslag – bussøknad skoleskyss – skoleår – skole – elevens navn
@@ -31,23 +30,26 @@ Mulige titler
 - Dokumentasjon – bussøknad skoleskyss – skoleår – skole – elevens navn
 - Foreløpig svar – bussøknad skoleskyss – skoleår – skole – elevens navn
 
-## Sett opp arkiv
-Setter opp jobb for arkivering
+## Generer dokumenter
+Genererer svarbrev
 
-## Lagre jobb for arkivering
-Genrerer arkivjobb og lagrer i arkivmappen
+## Lagre job til distribusjon
+Genererer fil for distribusjonsjobb
 
 ## Lagre jobb gjort
 Lagrer jobben i oppsatt gjort-mappe
 
+## Lagre jobb fara
+Lagrer jobben i oppsatt fara-mappe
+
 ## Lagre jobb feil
-Derosom feil: Lagrer jobb og dokumenter i oppsatt feilmappe
+Dersom feil: Lagrer jobb og dokumenter i oppsatt feilmappe
 
 ## Rydd opp dokumenter
+Hvis ingen feil: fjerne alle dokumenet
 
 ## Rydd opp jobb
-
-## Oppdater logg
+Fjerner jobbfilen
 
 ## Avslutt
 Avslutter jobb
