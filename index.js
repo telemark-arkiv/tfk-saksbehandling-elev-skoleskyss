@@ -7,10 +7,8 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
   const doSaksbehandling = require('./lib/do-saksbehandling')
   const fixLongUrls = require('./lib/fix-long-urls')
   const setupTemplates = require('./lib/setup-templates')
-  const setupTemplatesArchive = require('./lib/setup-templates-archive')
   const setupArchive = require('./lib/setup-archive')
   const generateDocuments = require('./lib/generate-documents')
-  const generateDocumentsArchive = require('./lib/generate-documents-archiveIn')
   const encodeDocumentsArchive = require('./lib/encode-documents-to-archive')
   const sendStatusMessage = require('./lib/send-status-message')
   const saveJobDistribution = require('./lib/save-job-distribution')
@@ -52,10 +50,8 @@ module.exports = function tfkSaksbehandlingElevSkoleskyss (item, callback) {
     fixLongUrls,
     sendStatusMessage,
     setupTemplates,
-    setupTemplatesArchive,
     setupArchive,
     generateDocuments,
-    generateDocumentsArchive,
     encodeDocumentsArchive,
     saveJobDistribution,
     saveJobDone,
