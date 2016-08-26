@@ -1,0 +1,30 @@
+{
+  "_id": "575913e7598453685f198dcd",
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "folkeregistrert"
+  },
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Avstand"
+  },
+  "dsfData": {
+    "ADR":"HELT TILFELDIG ADRESSE",
+    "POSTN": "3781",
+    "POSTS": "MED RIKTIG POSTNUMMER",
+    "FODT": "181190",
+    "PERS": "12345"
+  },
+  "distance-see-dsf": {
+    "data": {
+      "distance": "101 km",
+      "distanceValue": 101000
+    }
+  },
+  "saksbehandlingsResultat": {
+    "innvilget": false,
+    "avslag": false,
+    "manuell": false
+  },
+  "timeStamp": 1465455591446
+}
