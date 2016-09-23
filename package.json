@@ -37,7 +37,7 @@
     "coveralls": "2.11.14",
     "nsp": "2.6.1",
     "standard": "8.1.0",
-    "tap": "7.1.1"
+    "tap": "7.1.2"
   },
   "dependencies": {
     "birthdate-from-id": "1.0.4",
@@ -47,9 +47,9 @@
     "goorl": "2.0.5",
     "jsonwebtoken": "7.1.9",
     "mississippi": "1.2.0",
-    "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.2",
+    "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.3",
     "tfk-template-to-pdf": "2.0.2",
-    "uuid": "2.0.2",
+    "uuid": "2.0.3",
     "wreck": "10.0.0"
   }
 }
