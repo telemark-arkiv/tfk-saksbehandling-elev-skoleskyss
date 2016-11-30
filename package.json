@@ -49,7 +49,7 @@
     "mississippi": "1.2.0",
     "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.7",
     "tfk-template-to-pdf": "2.0.4",
-    "uuid": "3.0.0",
+    "uuid": "3.0.1",
     "wreck": "10.0.0"
   }
 }
