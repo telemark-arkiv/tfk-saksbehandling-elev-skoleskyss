@@ -45,7 +45,7 @@
     "get-age": "1.0.0",
     "get-skole-aar": "1.0.0",
     "goorl": "2.0.7",
-    "jsonwebtoken": "7.1.9",
+    "jsonwebtoken": "7.1.10",
     "mississippi": "1.2.0",
     "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.7",
     "tfk-template-to-pdf": "2.0.4",
