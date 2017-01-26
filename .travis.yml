@@ -3,4 +3,3 @@ node_js:
   - "4"
 after_success:
   - npm run coveralls
-  - curl --data build=true -X POST https://registry.hub.docker.com/u/telemark/tfk-saksbehandling-elev-skoleskyss/trigger/c69d3d0b-e13e-4c14-86b3-91db2f6eb7c7/
