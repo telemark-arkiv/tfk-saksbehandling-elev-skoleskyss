@@ -43,7 +43,7 @@
     "birthdate-from-id": "1.0.6",
     "capitalize": "1.0.0",
     "firebase-save": "2.1.0",
-    "get-age": "1.0.0",
+    "get-age": "1.0.1",
     "get-skole-aar": "1.0.0",
     "goorl": "2.0.8",
     "jsonwebtoken": "7.2.1",
