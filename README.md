@@ -3,6 +3,8 @@
 
 # tfk-saksbehandling-elev-skoleskyss
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-saksbehandling-elev-skoleskyss.svg)](https://greenkeeper.io/)
+
 Saksbehandlermodul for skoleskyss
 
 ## Innhold
