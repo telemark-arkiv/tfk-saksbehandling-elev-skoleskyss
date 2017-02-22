@@ -40,7 +40,7 @@
     "tap": "10.2.0"
   },
   "dependencies": {
-    "birthdate-from-id": "1.0.8",
+    "birthdate-from-id": "1.0.12",
     "capitalize": "1.0.0",
     "firebase-save": "2.1.0",
     "get-age": "1.0.1",
