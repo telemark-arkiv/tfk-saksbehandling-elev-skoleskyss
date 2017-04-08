@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-elev-skoleskyss",
-  "version": "6.1.21",
+  "version": "6.1.22",
   "description": "Saksbehandling av søknader om skoleskyss",
   "license": "MIT",
   "author": {
@@ -36,8 +36,8 @@
   "devDependencies": {
     "coveralls": "2.11.16",
     "nsp": "2.6.3",
-    "standard": "8.6.0",
-    "tap": "10.2.0"
+    "standard": "9.0.2",
+    "tap": "10.3.1"
   },
   "dependencies": {
     "birthdate-from-id": "1.0.12",
@@ -51,6 +51,6 @@
     "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.14",
     "tfk-template-to-pdf": "2.0.9",
     "uuid": "3.0.1",
-    "wreck": "10.0.0"
+    "wreck": "11.0.0"
   }
 }
