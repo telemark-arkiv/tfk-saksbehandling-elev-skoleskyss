@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-elev-skoleskyss",
-  "version": "6.1.31",
+  "version": "6.1.32",
   "description": "Saksbehandling av søknader om skoleskyss",
   "license": "MIT",
   "private": true,
