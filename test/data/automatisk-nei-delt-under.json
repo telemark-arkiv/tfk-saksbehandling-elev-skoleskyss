@@ -9,16 +9,12 @@
     "grunnlag": "Avstand"
   },
   "distance-see-dsf": {
-    "data": {
-      "distance": "5,71 km",
-      "distanceValue": 5708
-    }
+    "distance": "5,71 km",
+    "distanceValue": 5708
   },
   "distance-see-delt": {
-    "data": {
-      "distance": "5,71 km",
-      "distanceValue": 5708
-    }
+    "distance": "5,71 km",
+    "distanceValue": 5708
   },
   "dsfData": {
     "ADR":"HELT TILFELDIG ADRESSE",

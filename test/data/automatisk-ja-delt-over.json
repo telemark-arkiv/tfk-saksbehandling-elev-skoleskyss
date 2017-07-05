@@ -16,16 +16,12 @@
     "PERS": "12345"
   },
   "distance-see-dsf": {
-    "data": {
-      "distance": "10,71 km",
-      "distanceValue": 10708
-    }
+    "distance": "10,71 km",
+    "distanceValue": 10708
   },
   "distance-see-delt": {
-    "data": {
-      "distance": "10,71 km",
-      "distanceValue": 10708
-    }
+    "distance": "10,71 km",
+    "distanceValue": 10708
   },
   "timeStamp": 1465455591446
 }

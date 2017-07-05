@@ -16,10 +16,8 @@
     "PERS": "12345"
   },
   "distance-see-dsf": {
-    "data": {
-      "distance": "101 km",
-      "distanceValue": 101000
-    }
+    "distance": "101 km",
+    "distanceValue": 101000
   },
   "saksbehandlingsResultat": {
     "innvilget": false,

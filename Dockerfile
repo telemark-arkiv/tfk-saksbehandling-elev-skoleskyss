@@ -1,11 +1,5 @@
-###########################################################
-#
-# Dockerfile for tfk-saksbehandling-elev-skoleskyss
-#
-###########################################################
-
-# Setting the base to nodejs 6.9.4
-FROM node:6.9.4-alpine
+# Setting the base to nodejs 6.11.0
+FROM node:6.11.0-alpine
 
 # Maintainer
 MAINTAINER Geir Gåsodden
