@@ -2,7 +2,7 @@
 
 const saksbehandler = require('./index')
 
-saksbehandler({}, function doSaksbehandling (error, message) {
+saksbehandler({}, (error, message) => {
   if (error) {
     console.error(error)
   } else {
