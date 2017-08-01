@@ -18,5 +18,8 @@ WORKDIR "/src"
 # Install dependencies
 RUN npm install --production
 
+# Tries to fix installation of form-data
+RUN npm install git+https://github.com/telemark/form-data.git
+
 # Startup
 ENTRYPOINT node example.js
