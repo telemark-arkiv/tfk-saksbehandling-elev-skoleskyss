@@ -52,6 +52,6 @@
     "tfk-saksbehandling-elev-skoleskyss-templates": "2.2.30",
     "tfk-template-to-pdf": "2.0.9",
     "uuid": "3.1.0",
-    "wreck": "12.3.0"
+    "wreck": "12.4.0"
   }
 }
