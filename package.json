@@ -35,7 +35,7 @@
     "url": "git://github.com/telemark/tfk-saksbehandling-elev-skoleskyss.git"
   },
   "devDependencies": {
-    "coveralls": "2.13.1",
+    "coveralls": "2.13.2",
     "nsp": "2.8.1",
     "standard": "10.0.3",
     "tap": "10.7.2"
